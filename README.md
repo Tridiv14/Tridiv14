@@ -13,7 +13,7 @@ cars, I enjoy turning random ideas into real projects.
 ### `// BUILDING`
 
 **AI · Machine Learning · Deep Learning · Research · Robotics · Computer Vision**  
-**Blockchain · Embedded Systems · Full-Stack · Autonomous Systems**
+**· Embedded Systems · Full-Stack · Autonomous Systems**
 
 ### `// PROJECTS`
 
@@ -23,7 +23,15 @@ cars, I enjoy turning random ideas into real projects.
 <img src="./status.svg" width="12"> `04` ML Experiments  
 <img src="./status.svg" width="12"> `05` Full-Stack Applications  
 <img src="./status.svg" width="12"> `06` Embedded Systems  
-<img src="./status.svg" width="12"> `07` Local AI / LLM Experiments  
+<img src="./status.svg" width="12"> `07` Local AI / LLM Experiments
+
+### `// LANGUAGES`
+
+`Python` · `C` · `C++` · `JavaScript` · `HTML` · `CSS` · `SQL`
+
+### `// EXPLORING`
+
+`Linux` · `Kali Linux`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tridiv-guder-907255412/">
