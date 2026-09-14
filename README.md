@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=900&color=FF003C&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE.;%3E+BUILDING+WHAT+SHOULDN'T+EXIST.;%3E+TURNING+IDEAS+INTO+REALITY.;%3E+RESEARCH.+BUILD.+BREAK.+REPEAT.;%3E+STATUS%3A+ALWAYS+CURIOUS." alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=900&color=FF003C&center=true&vCenter=true&width=650&lines=%3E+Initializing....;%3E+BUILDING+WHAT+SHOULDN'T+EXIST.;%3E+TURNING+IDEAS+INTO+REALITY.;%3E+RESEARCH.+BUILD.+BREAK.+REPEAT.;%3E+STATUS%3A+ALWAYS+CURIOUS." alt="Typing animation">
 </p>
 
 Hey, I'm **Tridiv Guder** — an engineering student who loves building things
