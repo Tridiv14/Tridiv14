@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<style>@keyframes pulse{0%,100%{opacity:.35;transform:scale(.75)}50%{opacity:1;transform:scale(1)}}.d{transform-origin:center;animation:pulse 1.8s ease-in-out infinite}</style>
+<circle class="d" cx="8" cy="8" r="4" fill="#FF003C"/>
+</svg>
