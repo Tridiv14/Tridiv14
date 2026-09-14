@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="220" rx="12" fill="#0d1117"/>
+
+  <g fill="#39FF14"
+     font-family="Consolas, 'Courier New', monospace"
+     font-size="29"
+     font-weight="700"
+     filter="url(#glow)"
+     xml:space="preserve">
+    <text x="36" y="55">_|_|_|_|_|  _|_|_|    _|_|_|  _|_|_|    _|_|_|  _|      _|        _|_|_|</text>
+    <text x="36" y="90">    _|      _|    _|    _|    _|    _|    _|    _|      _|      _|</text>
+    <text x="36" y="125">    _|      _|_|_|      _|    _|    _|    _|    _|      _|      _|  _|_|</text>
+    <text x="36" y="160">    _|      _|    _|    _|    _|    _|    _|      _|  _|        _|    _|</text>
+    <text x="36" y="195">    _|      _|    _|  _|_|_|  _|_|_|    _|_|_|      _|            _|_|_|</text>
+  </g>
+</svg>
