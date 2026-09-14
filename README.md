@@ -1,9 +1,11 @@
+```
 _|_|_|_|_|  _|_|_|    _|_|_|  _|_|_|    _|_|_|  _|      _|        _|_|_|
     _|      _|    _|    _|    _|    _|    _|    _|      _|      _|
     _|      _|_|_|      _|    _|    _|    _|    _|      _|      _|  _|_|
     _|      _|    _|    _|    _|    _|    _|      _|  _|        _|    _|
     _|      _|    _|  _|_|_|  _|_|_|    _|_|_|      _|            _|_|_|
-
+```
+Hey, I'm Tridiv Guder — an engineering student who loves building things (literally anything), learning new ideas, and solving problems. From simple cooling systems for my devices to LiDAR-based autonomous cars, I enjoy turning ideas into real projects. I'm especially interested in AI, technology, robotics, and machine learning, and I'm always experimenting with something new.
 <!--
 **Tridiv14/Tridiv14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
